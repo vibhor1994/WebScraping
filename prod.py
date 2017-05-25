@@ -1,6 +1,5 @@
 from threading import Thread,Condition
 import time
-import random
 from Queue import Queue
 import cherrypy
 import urllib2,cookielib
